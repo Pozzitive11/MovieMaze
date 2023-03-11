@@ -1,7 +1,7 @@
 [Demo](https://movie-maze.vercel.app/)
 
-Used Redux Toolkit and Redux Persist to save favorite movies.
-Used Tailwind CSS to style the application and create adaptive.
+- Used Redux Toolkit and Redux Persist to save favorite movies.
+- Used Tailwind CSS to style the application and create adaptive.
 
 First, run the development server:
 
